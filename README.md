@@ -1,4 +1,4 @@
-# Estruturas de Dados — Implementações em Python
+# Estruturas de Dados Avançados — Implementações em Python
 
 Repositório com implementações didáticas de estruturas e algoritmos em Python:
 - ordenacao.py — algoritmos de ordenação e benchmark
