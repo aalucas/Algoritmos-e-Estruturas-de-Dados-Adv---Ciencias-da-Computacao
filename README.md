@@ -66,7 +66,8 @@ arvores.py
 heap.py
 - class PriorityQueue:
   - add_task(task, priority=0)
-  - pop_task() -> (task, priority)
+  - pop_task() -> (task, priority)Console.WriteLine(Saude.Imc(povo[0]));
+
   - change_priority(task, new_priority)
   - __len__(), __repr__()
 - test_priority_queue() — exemplo e verificação
@@ -113,11 +114,4 @@ No terminal:
 ```
 python ordenacao.py
 ```
-Saída esperada: tabela com tempos por algoritmo/critério e mensagens de verificação de corretude.
 
----
-
-Se quiser, gero automaticamente:
-- README traduzido para inglês,
-- arquivos de testes pytest para cada módulo,
-- docstrings/typing e pequenos patches para garantir importação sem executar geração pesada.  
